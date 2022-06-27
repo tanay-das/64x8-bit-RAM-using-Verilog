@@ -1,1 +1,0 @@
-# 64x8-bit-RAM-using-Verilog
