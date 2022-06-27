@@ -15,9 +15,6 @@ at the given address is reflected at the output.
 ![App Screenshot](https://github.com/tanay-das/64x8-bit-RAM-using-Verilog/blob/main/Capture.PNG?raw=true)
 
 
-## Appendix
-
-Any additional information goes here
 
 
 ## Authors
