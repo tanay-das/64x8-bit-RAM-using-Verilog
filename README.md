@@ -14,6 +14,7 @@ at the given address is reflected at the output.
 
 ![App Screenshot](https://github.com/tanay-das/64x8-bit-RAM-using-Verilog/blob/main/Capture.PNG?raw=true)
 
+![image](https://user-images.githubusercontent.com/55503850/176152438-d53cb5de-add5-4d52-8ef9-ed7d6b83e073.png)
 
 
 
