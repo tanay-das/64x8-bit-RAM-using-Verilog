@@ -16,6 +16,9 @@ at the given address is reflected at the output.
 
 ![image](https://user-images.githubusercontent.com/55503850/176152438-d53cb5de-add5-4d52-8ef9-ed7d6b83e073.png)
 
+When we signal is high then the address location (addr) stores the data , and when the we signal is low then the stored data reflected at the provided location.
+
+![image](https://user-images.githubusercontent.com/55503850/176152625-20165a59-2d5b-492e-a673-b3ca6fb8d8f7.png)
 
 
 ## Authors
